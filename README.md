@@ -10,6 +10,12 @@ The project is totally non-commercial and created only in purpose to make materi
 2. Clean course 4 notebooks 
 3. Fix course 3
 
+
+**I definitely do NOT have following courses, so feel free to add them**:
+1. Course 1 notebooks
+2. Capstone course notebooks
+
+
 ___
 ***Please make homeworks by your own and look in this repository only when you've already done the assignments. Anyway, it is in your interests if you really want to learn something.***
 ___
