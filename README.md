@@ -43,7 +43,7 @@ ___
 * [5.3 - KNN vs RF](https://colab.research.google.com/drive/1CROYtKjQUCuIV1_iStJU-ghKSTyQS_aD)
 
 
-### 3 Unsupervised learning (totall mneed esto clean everything)
+### 3 Unsupervised learning (total mess, need to clean everything and add links. Files are in the folder)
 
 
 ### 4 Stats for data analysis (unstructured)
