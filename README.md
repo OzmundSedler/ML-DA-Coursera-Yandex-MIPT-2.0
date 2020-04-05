@@ -56,7 +56,11 @@ ___
 * [1.6 - Confidence Intervals for Pearson’s Correlation](https://colab.research.google.com/drive/16n0VICdZeLnrF5WPz-7UwxyT6KFT2LVA)
 
 #### Exercises
-* [Confidence interval practice](https://colab.research.google.com/drive/1_h8J4dEEFEhGYN6pxLjIRm2lJ5l-Cnvw)
+* [1.1 - Confidence interval](https://colab.research.google.com/drive/1_h8J4dEEFEhGYN6pxLjIRm2lJ5l-Cnvw)
+* [1.2 - Proportions conf int test](https://colab.research.google.com/drive/1Y5Zkjv89THLfsrZ9KAdCulQgyLZzF_Qx)
+* [1.3 - Bootstrap conf int test](https://colab.research.google.com/drive/1JGiQHB2HYxKFr0snatjkdfg8IdVc78wL)
+* [1.4 - Hypothesis testing test](https://colab.research.google.com/drive/1BwNwSTGtNw5ejfohJjvTb8WLlKtjOhhd)
+
 * [Student's test 1](https://colab.research.google.com/drive/1y87zgFan234idjXPOW5cEUlrWpkPNr2Q)
 * [Student's test 2](https://colab.research.google.com/drive/1gKQhnz5nIafDvWvAq00jKwxSJJkMZRNU)
 * [Z-test for 2 proportions](https://colab.research.google.com/drive/1EYgTZj6TZqMglNuIiTVcxcDh0yC-Jk3V)
