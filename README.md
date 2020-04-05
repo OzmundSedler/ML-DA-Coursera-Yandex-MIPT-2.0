@@ -10,6 +10,12 @@ The project is totally non-commercial and created only in purpose to make materi
 2. Clean course 4 notebooks 
 3. Fix course 3
 
+
+**I definitely do NOT have following courses, so feel free to add them**:
+1. Course 1 notebooks
+2. Capstone course notebooks
+
+
 ___
 ***Please make homeworks by your own and look in this repository only when you've already done the assignments. Anyway, it is in your interests if you really want to learn something.***
 ___
@@ -37,18 +43,24 @@ ___
 * [5.3 - KNN vs RF](https://colab.research.google.com/drive/1CROYtKjQUCuIV1_iStJU-ghKSTyQS_aD)
 
 
-### 3 Unsupervised learning (totall mneed esto clean everything)
+### 3 Unsupervised learning (total mess, need to clean everything and add links. Files are in the folder)
 
 
 ### 4 Stats for data analysis (unstructured)
-#### All together
-* [Confidence Interval for a Population Mean](https://colab.research.google.com/drive/1WzvykK2JYX4g3Kd5rMCrsA0vPJM7Zfwr)
-* [Confidence Interval for a proportion](https://colab.research.google.com/drive/1YiN5u-UkHk8a0LEPJlUOS8H1xDQkgrbz)
-* [Confidence interval for 2 proportions](https://colab.research.google.com/drive/1QGhPeEpSm2WJZNhWNXOT92O6hC-xm84I)
-* [Bootstrap Confidence Intervals](https://colab.research.google.com/drive/1LhhA-wlHdpwY4T6UZ1qrYmfxsj_TFTLc)
-* [Binominal test for a sample](https://colab.research.google.com/drive/1lSBcz8_gw4cEqQftkOIOLQfZkqW_duHn)
-* [Confidence Intervals for Pearson’s Correlation](https://colab.research.google.com/drive/16n0VICdZeLnrF5WPz-7UwxyT6KFT2LVA)
-* [Confidence interval practice](https://colab.research.google.com/drive/1_h8J4dEEFEhGYN6pxLjIRm2lJ5l-Cnvw)
+#### Lecture notebooks
+* [1.1 - Confidence Interval for a Population Mean](https://colab.research.google.com/drive/1WzvykK2JYX4g3Kd5rMCrsA0vPJM7Zfwr)
+* [1.2 - Confidence Interval for a proportion](https://colab.research.google.com/drive/1YiN5u-UkHk8a0LEPJlUOS8H1xDQkgrbz)
+* [1.3 - Confidence interval for 2 proportions](https://colab.research.google.com/drive/1QGhPeEpSm2WJZNhWNXOT92O6hC-xm84I)
+* [1.4 - Bootstrap Confidence Intervals](https://colab.research.google.com/drive/1LhhA-wlHdpwY4T6UZ1qrYmfxsj_TFTLc)
+* [1.5 - Binominal test for a sample](https://colab.research.google.com/drive/1lSBcz8_gw4cEqQftkOIOLQfZkqW_duHn)
+* [1.6 - Confidence Intervals for Pearson’s Correlation](https://colab.research.google.com/drive/16n0VICdZeLnrF5WPz-7UwxyT6KFT2LVA)
+
+#### Exercises
+* [1.1 - Confidence interval](https://colab.research.google.com/drive/1_h8J4dEEFEhGYN6pxLjIRm2lJ5l-Cnvw)
+* [1.2 - Proportions conf int test](https://colab.research.google.com/drive/1Y5Zkjv89THLfsrZ9KAdCulQgyLZzF_Qx)
+* [1.3 - Bootstrap conf int test](https://colab.research.google.com/drive/1JGiQHB2HYxKFr0snatjkdfg8IdVc78wL)
+* [1.4 - Hypothesis testing test](https://colab.research.google.com/drive/1BwNwSTGtNw5ejfohJjvTb8WLlKtjOhhd)
+
 * [Student's test 1](https://colab.research.google.com/drive/1y87zgFan234idjXPOW5cEUlrWpkPNr2Q)
 * [Student's test 2](https://colab.research.google.com/drive/1gKQhnz5nIafDvWvAq00jKwxSJJkMZRNU)
 * [Z-test for 2 proportions](https://colab.research.google.com/drive/1EYgTZj6TZqMglNuIiTVcxcDh0yC-Jk3V)
