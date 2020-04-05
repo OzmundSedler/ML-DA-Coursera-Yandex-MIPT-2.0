@@ -47,13 +47,15 @@ ___
 
 
 ### 4 Stats for data analysis (unstructured)
-#### All together
-* [Confidence Interval for a Population Mean](https://colab.research.google.com/drive/1WzvykK2JYX4g3Kd5rMCrsA0vPJM7Zfwr)
-* [Confidence Interval for a proportion](https://colab.research.google.com/drive/1YiN5u-UkHk8a0LEPJlUOS8H1xDQkgrbz)
-* [Confidence interval for 2 proportions](https://colab.research.google.com/drive/1QGhPeEpSm2WJZNhWNXOT92O6hC-xm84I)
-* [Bootstrap Confidence Intervals](https://colab.research.google.com/drive/1LhhA-wlHdpwY4T6UZ1qrYmfxsj_TFTLc)
-* [Binominal test for a sample](https://colab.research.google.com/drive/1lSBcz8_gw4cEqQftkOIOLQfZkqW_duHn)
-* [Confidence Intervals for Pearson’s Correlation](https://colab.research.google.com/drive/16n0VICdZeLnrF5WPz-7UwxyT6KFT2LVA)
+#### Lecture notebooks
+* [1.1 - Confidence Interval for a Population Mean](https://colab.research.google.com/drive/1WzvykK2JYX4g3Kd5rMCrsA0vPJM7Zfwr)
+* [1.2 - Confidence Interval for a proportion](https://colab.research.google.com/drive/1YiN5u-UkHk8a0LEPJlUOS8H1xDQkgrbz)
+* [1.3 - Confidence interval for 2 proportions](https://colab.research.google.com/drive/1QGhPeEpSm2WJZNhWNXOT92O6hC-xm84I)
+* [1.4 - Bootstrap Confidence Intervals](https://colab.research.google.com/drive/1LhhA-wlHdpwY4T6UZ1qrYmfxsj_TFTLc)
+* [1.5 - Binominal test for a sample](https://colab.research.google.com/drive/1lSBcz8_gw4cEqQftkOIOLQfZkqW_duHn)
+* [1.6 - Confidence Intervals for Pearson’s Correlation](https://colab.research.google.com/drive/16n0VICdZeLnrF5WPz-7UwxyT6KFT2LVA)
+
+#### Exercises
 * [Confidence interval practice](https://colab.research.google.com/drive/1_h8J4dEEFEhGYN6pxLjIRm2lJ5l-Cnvw)
 * [Student's test 1](https://colab.research.google.com/drive/1y87zgFan234idjXPOW5cEUlrWpkPNr2Q)
 * [Student's test 2](https://colab.research.google.com/drive/1gKQhnz5nIafDvWvAq00jKwxSJJkMZRNU)
